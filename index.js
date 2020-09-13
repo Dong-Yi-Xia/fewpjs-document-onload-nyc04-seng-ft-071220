@@ -4,6 +4,6 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function newtext() {
-  let text = document".querySelector("p#text")
+  let text = document.querySelector("p#text")
   text.textContent = "This is really cool!"
 }
